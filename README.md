@@ -4,6 +4,8 @@ A fully responsive, single-page e-commerce website built with vanilla HTML, CSS,
 
 ---
 
+[Live Demo](https://e-com-anita-creation.netlify.app/)
+
 ## 🌟 Features
 
 - **Multi-page SPA navigation** — Home, Products, About, Account, and Cart pages without any page reload
