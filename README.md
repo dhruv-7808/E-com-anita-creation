@@ -50,7 +50,7 @@ No build tools or dependencies required. Just a modern web browser.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/anita-creation.git
+   git clone https://github.com/dhruv-7808/anita-creation.git
    cd anita-creation
    ```
 
@@ -135,4 +135,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-> © 2025 Anita Creation. All Rights Reserved.
+> © 2026 Anita Creation. All Rights Reserved.
